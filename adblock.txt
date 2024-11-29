@@ -1,3 +1,8 @@
+[Adblock Plus 1.1]
+! Title: Extra AdBlock List
+! Version: 1732882406
+! Number of rules: 209
+!
 ||24tunnel.com^
 ||520.jp^
 ||acerogrado.cl^
