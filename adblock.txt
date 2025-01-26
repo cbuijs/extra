@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
 ! Title: Extra AdBlock List
-! Version: 1737817262
-! Number of rules: 364
+! Version: 1737903672
+! Number of rules: 365
 !
 ||*.alibaba^
 ||*.alipay^
@@ -139,6 +139,7 @@
 ||openbittorrent.com^
 ||paike.com^
 ||paypai.com^
+||analytics.pinterest.com^
 ||widgets.pinterest.com^
 ||proxyturbo.com^
 ||pubgmobile.com^
