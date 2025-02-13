@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
 ! Title: Extra AdBlock List
-! Version: 1739372475
-! Number of rules: 365
+! Version: 1739458865
+! Number of rules: 402
 !
 ||*.alibaba^
 ||*.alipay^
@@ -26,8 +26,10 @@
 ||24tunnel.com^
 ||9apps.com^
 ||9appsinstall.com^
+||adbkwai.com^
 ||alibaba.com^
 ||alibaba-inc.com^
+||alibabachengdun.com^
 ||alibabacloud.com^
 ||alibabacorp.com^
 ||alibabadns.com^
@@ -42,7 +44,9 @@
 ||alidayu.com^
 ||alidns.com^
 ||aliexpress.com^
+||aliexpress-media.com^
 ||alifanyi.com^
+||aligames.com^
 ||aliimg.com^
 ||alikmd.com^
 ||alikunlun.com^
@@ -71,6 +75,7 @@
 ||alushtadom.com^
 ||amap.com^
 ||hypertrack.amazonaws.com^
+||amsoveasea.com^
 ||ancbfvvc.com^
 ||anirena.com^
 ||feelinsonice.appspot.com^
@@ -81,25 +86,36 @@
 ||byteoversea.com^
 ||cainiao.com^
 ||cainiaoyizhan.com^
+||cmfu.com^
 ||cnzz.com^
 ||codmwest.com^
 ||firebase-settings.crashlytics.com^
 ||dingtalk.com^
 ||douyin.com^
 ||dreamswelcome.com^
+||eckwai.com^
+||ecukwai.com^
 ||elemecdn.com^
+||fanhuan.com^
 ||fanxing.com^
 ||findgravy.com^
 ||firebase.com^
 ||firebaseapp.com^
 ||firebaseio.com^
+||fliggy.com^
 ||foreverydream.com^
 ||freshhema.com^
+||freshippo.com^
+||gaode.com^
+||gcloudsdk.com^
 ||gcore.com^
 ||getsquare.com^
 ||giftofsquare.com^
 ||giftsofsquare.com^
 ||giveasquare.com^
+||gjacky.com^
+||go2map.com^
+||goofish.com^
 ||firebaseinstallations.googleapis.com^
 ||firebaseperusertopics-pa.googleapis.com^
 ||firebaseremoteconfig.googleapis.com^
@@ -114,9 +130,12 @@
 ||hsforms.com^
 ||hugedomains.com^
 ||hypertrack.com^
+||hzchengdun.com^
+||hzshudian.com^
 ||ibytedtos.com^
 ||ibyteimg.com^
 ||idqqimg.com^
+||igamecj.com^
 ||itao.com^
 ||iterable.com^
 ||joox.com^
@@ -141,15 +160,20 @@
 ||paypai.com^
 ||analytics.pinterest.com^
 ||widgets.pinterest.com^
+||proximabeta.com^
 ||proxyturbo.com^
 ||pubgmobile.com^
+||pubgpocket.com^
 ||qcloud.com^
+||qdmm.com^
+||qidian.com^
 ||qq.com^
 ||qqmail.com^
 ||qqzaixian.com^
 ||qzone.com^
 ||research-scanner.com^
 ||revenuecat.com^
+||ringofelysiumonline.com^
 ||riverty.com^
 ||sc-gw.com^
 ||sc-jpl.com^
@@ -158,6 +182,9 @@
 ||servicewechat.com^
 ||smartechmetrics.com^
 ||snapchat.com^
+||sogo.com^
+||sogou.com^
+||sogoucdn.com^
 ||soku.com^
 ||sqclick.com^
 ||squareappointments.com^
@@ -180,7 +207,9 @@
 ||tangping.com^
 ||tanx.com^
 ||taobao.com^
+||taopiaopiao.com^
 ||tbcache.com^
+||tcdnos.com^
 ||tencent.com^
 ||tencentmusic.com^
 ||tenpay.com^
@@ -192,6 +221,8 @@
 ||tindersparks.com^
 ||tingmall.com^
 ||tiny-vps.com^
+||tlivedns.com^
+||tlivesource.com^
 ||tmall.com^
 ||tomjson.com^
 ||ucweb.com^
@@ -224,6 +255,8 @@
 ||xiaomi.com^
 ||ykimg.com^
 ||youku.com^
+||yuewen.com^
+||ywurl.com^
 ||vk.company^
 ||t-online.de^
 ||truepublish.de^
@@ -242,6 +275,7 @@
 ||*.in^
 ||alibaba.info^
 ||gbitt.info^
+||puata.info^
 ||daraz.io^
 ||juicer.io^
 ||myendpoint.io^
@@ -294,6 +328,7 @@
 ||giveasquare.net^
 ||gmru.net^
 ||go-mpulse.net^
+||hzchengdun.net^
 ||internet-research-project.net^
 ||internetwarriors.net^
 ||jtvnw.net^
@@ -310,6 +345,8 @@
 ||slatic.net^
 ||snap-dev.net^
 ||squaregift.net^
+||tcdnos.net^
+||tencent-cloud.net^
 ||ttvnw.net^
 ||twitchcdn.net^
 ||twitchsvc.net^
