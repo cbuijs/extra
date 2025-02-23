@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Extra AdBlock List
-! Version: 1740236456
+! Version: 1740322857
 ! Number of rules: 402
 !
 ||*.alibaba^
