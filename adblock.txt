@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Extra AdBlock List
-! Version: 1744120877
+! Version: 1744207256
 ! Number of rules: 405
 !
 ||qwen.ai^
