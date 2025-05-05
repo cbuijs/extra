@@ -1,5 +1,5 @@
 [Adblock Plus 1.1]
 ! Title: Extra AdBlock List
-! Version: 1745848808
+! Version: 1746453610
 ! Number of rules: 0
 !
