@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
 ! Title: Extra AdBlock List
-! Version: 1746540063
-! Number of rules: 436
+! Version: 1746626462
+! Number of rules: 398
 !
 ||qwen.ai^
 ||qwenlm.ai^
@@ -28,8 +28,6 @@
 ||24tunnel.com^
 ||9apps.com^
 ||9appsinstall.com^
-||adbkwai.com^
-||adukwai.com^
 ||alibaba.com^
 ||alibaba-inc.com^
 ||alibabachengdun.com^
@@ -56,7 +54,6 @@
 ||alimama.com^
 ||alimebot.com^
 ||alipay.com^
-||alipaylog.com^
 ||alipayobjects.com^
 ||aliplus.com^
 ||aliresearch.com^
@@ -78,36 +75,27 @@
 ||alushtadom.com^
 ||amap.com^
 ||hypertrack.amazonaws.com^
-||incoming-data-sense360.s3.amazonaws.com^
-||amplitude.com^
 ||amsoveasea.com^
 ||ancbfvvc.com^
 ||anirena.com^
-||appdynamics.com^
-||metrics.apple.com^
 ||feelinsonice.appspot.com^
 ||feelinsonice-hrd.appspot.com^
 ||autonavi.com^
 ||boomproxy.com^
-||bugsnag.com^
 ||bytedance.com^
 ||byteoversea.com^
 ||cainiao.com^
 ||cainiaoyizhan.com^
-||clevertap-prod.com^
 ||cmfu.com^
 ||cnzz.com^
 ||codmwest.com^
-||cquotient.com^
 ||firebase-settings.crashlytics.com^
 ||dingtalk.com^
 ||douyin.com^
 ||dreamswelcome.com^
 ||eckwai.com^
 ||ecukwai.com^
-||effirst.com^
 ||elemecdn.com^
-||eum-appdynamics.com^
 ||fanhuan.com^
 ||fanxing.com^
 ||findgravy.com^
@@ -121,17 +109,14 @@
 ||gaode.com^
 ||gcloudsdk.com^
 ||gcore.com^
-||getsentry.com^
 ||getsquare.com^
 ||giftofsquare.com^
 ||giftsofsquare.com^
 ||giveasquare.com^
 ||gjacky.com^
-||gl-product-analytics.com^
 ||go2map.com^
 ||goofish.com^
 ||firebaseinstallations.googleapis.com^
-||firebaselogging-pa.googleapis.com^
 ||firebaseperusertopics-pa.googleapis.com^
 ||firebaseremoteconfig.googleapis.com^
 ||gosq.com^
@@ -161,19 +146,14 @@
 ||lazada.com^
 ||listdl.com^
 ||maddw.com^
-||mdotlabs.com^
 ||measuread.com^
 ||mkt.com^
-||mmstat.com^
 ||api-adcenter.mobvoi.com^
 ||muscdn.com^
 ||my.com^
 ||myapp.com^
 ||myqcloud.com^
-||nativeads.com^
-||newrelic.com^
 ||nyaatracker.com^
-||onezapp.com^
 ||opchatgptai.com^
 ||openbittorrent.com^
 ||paike.com^
@@ -191,7 +171,6 @@
 ||qqmail.com^
 ||qqzaixian.com^
 ||qzone.com^
-||ravenjs.com^
 ||research-scanner.com^
 ||revenuecat.com^
 ||ringofelysiumonline.com^
@@ -200,8 +179,6 @@
 ||sc-jpl.com^
 ||scorecardresearch.com^
 ||sellwithsquare.com^
-||sense360eng.com^
-||sentry-cdn.com^
 ||servicewechat.com^
 ||smartechmetrics.com^
 ||snapchat.com^
@@ -226,7 +203,6 @@
 ||statcounter.com^
 ||stickandsplit.com^
 ||sumogroupltd.com^
-||swipechief.com^
 ||syncwithsquare.com^
 ||tangping.com^
 ||tanx.com^
@@ -249,9 +225,7 @@
 ||tlivesource.com^
 ||tmall.com^
 ||tomjson.com^
-||tudou.com^
 ||ucweb.com^
-||umtrack.com^
 ||umtrack0.com^
 ||umtrack1.com^
 ||umtrack2.com^
@@ -301,14 +275,11 @@
 ||*.in^
 ||alibaba.info^
 ||gbitt.info^
-||puata.info^
 ||daraz.io^
 ||juicer.io^
 ||myendpoint.io^
 ||payservice.io^
 ||privacymanager.io^
-||sentry.io^
-||siteimproveanalytics.io^
 ||vkpay.io^
 ||*.iq^
 ||*.ir^
@@ -327,7 +298,6 @@
 ||onion.ly^
 ||square.ly^
 ||cash.me^
-||cashstaging.me^
 ||ele.me^
 ||moeking.me^
 ||mycdn.me^
@@ -358,19 +328,14 @@
 ||gmru.net^
 ||go-mpulse.net^
 ||hzchengdun.net^
-||imtmp.net^
 ||internet-research-project.net^
 ||internetwarriors.net^
 ||jtvnw.net^
-||kidoz.net^
 ||kingroot.net^
 ||loyaltylion.net^
-||monetate.net^
 ||mradx.net^
 ||netsecscan.net^
-||nr-data.net^
 ||peramor.net^
-||protechts.net^
 ||protects.net^
 ||proxad.net^
 ||sc-cdn.net^
@@ -392,17 +357,14 @@
 ||wetest.net^
 ||yandex.net^
 ||yottaa.net^
-||zqtk.net^
 ||paypai.nl^
 ||4cdn.org^
 ||4chan.org^
-||aliapp.org^
 ||dler.org^
 ||torrent.eu.org^
 ||giftofsquare.org^
 ||giftsofsquare.org^
 ||giveasquare.org^
-||greencompute.org^
 ||internet-census.org^
 ||leechers-paradise.org^
 ||datadog.pool.ntp.org^
