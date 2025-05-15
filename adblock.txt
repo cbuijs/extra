@@ -1,13 +1,14 @@
 [Adblock Plus 1.1]
 ! Title: Extra AdBlock List
-! Version: 1747231269
-! Number of rules: 393
+! Version: 1747317656
+! Number of rules: 398
 !
 ||qwen.ai^
 ||qwenlm.ai^
 ||*.alibaba^
 ||*.alipay^
 ||cash.app^
+||cashstaging.app^
 ||lovina.app^
 ||vkpay.app^
 ||resolver.arpa^
@@ -26,6 +27,7 @@
 ||1688.com^
 ||24tunnel.com^
 ||9apps.com^
+||9appsinstall.com^
 ||alibaba.com^
 ||alibaba-inc.com^
 ||alibabachengdun.com^
@@ -127,10 +129,12 @@
 ||hichina.com^
 ||hsforms.com^
 ||hugedomains.com^
+||hypertrack.com^
 ||hzchengdun.com^
 ||hzshudian.com^
 ||ibytedtos.com^
 ||ibyteimg.com^
+||idqqimg.com^
 ||igamecj.com^
 ||itao.com^
 ||iterable.com^
@@ -361,6 +365,7 @@
 ||giftofsquare.org^
 ||giftsofsquare.org^
 ||giveasquare.org^
+||internet-census.org^
 ||leechers-paradise.org^
 ||datadog.pool.ntp.org^
 ||opentrackr.org^
