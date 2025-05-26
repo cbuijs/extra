@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
 ! Title: Extra AdBlock List
-! Version: 1748181664
-! Number of rules: 398
+! Version: 1748268063
+! Number of rules: 402
 !
 ||qwen.ai^
 ||qwenlm.ai^
@@ -78,6 +78,7 @@
 ||amsoveasea.com^
 ||ancbfvvc.com^
 ||anirena.com^
+||appdynamics.com^
 ||feelinsonice.appspot.com^
 ||feelinsonice-hrd.appspot.com^
 ||autonavi.com^
@@ -96,6 +97,7 @@
 ||eckwai.com^
 ||ecukwai.com^
 ||elemecdn.com^
+||eum-appdynamics.com^
 ||fanhuan.com^
 ||fanxing.com^
 ||findgravy.com^
@@ -360,11 +362,13 @@
 ||paypai.nl^
 ||4cdn.org^
 ||4chan.org^
+||aliapp.org^
 ||dler.org^
 ||torrent.eu.org^
 ||giftofsquare.org^
 ||giftsofsquare.org^
 ||giveasquare.org^
+||greencompute.org^
 ||internet-census.org^
 ||leechers-paradise.org^
 ||datadog.pool.ntp.org^
