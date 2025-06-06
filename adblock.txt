@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
 ! Title: Extra AdBlock List
-! Version: 1749132077
-! Number of rules: 399
+! Version: 1749218456
+! Number of rules: 404
 !
 ||qwen.ai^
 ||qwenlm.ai^
@@ -28,6 +28,8 @@
 ||24tunnel.com^
 ||9apps.com^
 ||9appsinstall.com^
+||adbkwai.com^
+||adukwai.com^
 ||alibaba.com^
 ||alibaba-inc.com^
 ||alibabachengdun.com^
@@ -54,6 +56,7 @@
 ||alimama.com^
 ||alimebot.com^
 ||alipay.com^
+||alipaylog.com^
 ||alipayobjects.com^
 ||aliplus.com^
 ||aliresearch.com^
@@ -362,11 +365,13 @@
 ||paypai.nl^
 ||4cdn.org^
 ||4chan.org^
+||aliapp.org^
 ||dler.org^
 ||torrent.eu.org^
 ||giftofsquare.org^
 ||giftsofsquare.org^
 ||giveasquare.org^
+||greencompute.org^
 ||internet-census.org^
 ||leechers-paradise.org^
 ||opentrackr.org^
