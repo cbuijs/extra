@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
 ! Title: Extra AdBlock List
-! Version: 1749304849
-! Number of rules: 404
+! Version: 1749391256
+! Number of rules: 403
 !
 ||qwen.ai^
 ||qwenlm.ai^
@@ -29,7 +29,6 @@
 ||9apps.com^
 ||9appsinstall.com^
 ||adbkwai.com^
-||adukwai.com^
 ||alibaba.com^
 ||alibaba-inc.com^
 ||alibabachengdun.com^
