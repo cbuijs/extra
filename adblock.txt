@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
 ! Title: Extra AdBlock List
-! Version: 1751032863
-! Number of rules: 410
+! Version: 1751119268
+! Number of rules: 412
 !
 ||qwen.ai^
 ||qwenlm.ai^
@@ -82,6 +82,7 @@
 ||feelinsonice.appspot.com^
 ||feelinsonice-hrd.appspot.com^
 ||autonavi.com^
+||bealanews.com^
 ||boomproxy.com^
 ||bytedance.com^
 ||byteoversea.com^
@@ -93,6 +94,7 @@
 ||firebase-settings.crashlytics.com^
 ||deeginews.com^
 ||dingtalk.com^
+||dorimnews.com^
 ||douyin.com^
 ||dreamswelcome.com^
 ||eckwai.com^
