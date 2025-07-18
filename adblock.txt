@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
 ! Title: Extra AdBlock List
-! Version: 1752760875
-! Number of rules: 416
+! Version: 1752847263
+! Number of rules: 417
 !
 ||qwen.ai^
 ||qwenlm.ai^
@@ -358,6 +358,7 @@
 ||proxad.net^
 ||sc-cdn.net^
 ||sc-prod.net^
+||secshow.net^
 ||slatic.net^
 ||snap-dev.net^
 ||squaregift.net^
