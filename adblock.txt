@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
 ! Title: Extra AdBlock List
-! Version: 1759068071
-! Number of rules: 413
+! Version: 1759154469
+! Number of rules: 415
 !
 ||qwen.ai^
 ||qwenlm.ai^
@@ -238,6 +238,7 @@
 ||tlivesource.com^
 ||tmall.com^
 ||tomjson.com^
+||tudou.com^
 ||ucweb.com^
 ||umtrack0.com^
 ||umtrack1.com^
@@ -383,6 +384,7 @@
 ||greencompute.org^
 ||internet-census.org^
 ||leechers-paradise.org^
+||datadog.pool.ntp.org^
 ||opentrackr.org^
 ||shadowserver.org^
 ||squaregift.org^
