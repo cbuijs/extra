@@ -3,7 +3,6 @@ qwenlm.ai
 *.alibaba
 *.alipay
 cash.app
-cashstaging.app
 lovina.app
 vkpay.app
 resolver.arpa
@@ -22,7 +21,6 @@ gosq.co
 1688.com
 24tunnel.com
 9apps.com
-9appsinstall.com
 alibaba.com
 alibaba-inc.com
 alibabachengdun.com
@@ -87,6 +85,7 @@ cmfu.com
 cnzz.com
 codmwest.com
 firebase-settings.crashlytics.com
+deeginews.com
 dingtalk.com
 dorimnews.com
 douyin.com
@@ -130,12 +129,10 @@ hichina.com
 hsforms.com
 hugedomains.com
 huronews.com
-hypertrack.com
 hzchengdun.com
 hzshudian.com
 ibytedtos.com
 ibyteimg.com
-idqqimg.com
 igamecj.com
 itao.com
 iterable.com
@@ -149,6 +146,7 @@ laravel-news.com
 lazada.com
 listdl.com
 loopanews.com
+luronews.com
 maddw.com
 mdotlabs.com
 measuread.com
@@ -377,7 +375,6 @@ giftofsquare.org
 giftsofsquare.org
 giveasquare.org
 greencompute.org
-internet-census.org
 leechers-paradise.org
 datadog.pool.ntp.org
 opentrackr.org
