@@ -1,14 +1,13 @@
 [Adblock Plus 1.1]
 ! Title: Extra AdBlock List
-! Version: 1761141669
-! Number of rules: 415
+! Version: 1761228064
+! Number of rules: 412
 !
 ||qwen.ai^
 ||qwenlm.ai^
 ||*.alibaba^
 ||*.alipay^
 ||cash.app^
-||cashstaging.app^
 ||lovina.app^
 ||vkpay.app^
 ||resolver.arpa^
@@ -27,7 +26,6 @@
 ||1688.com^
 ||24tunnel.com^
 ||9apps.com^
-||9appsinstall.com^
 ||alibaba.com^
 ||alibaba-inc.com^
 ||alibabachengdun.com^
@@ -92,6 +90,7 @@
 ||cnzz.com^
 ||codmwest.com^
 ||firebase-settings.crashlytics.com^
+||deeginews.com^
 ||dingtalk.com^
 ||dorimnews.com^
 ||douyin.com^
@@ -135,12 +134,10 @@
 ||hsforms.com^
 ||hugedomains.com^
 ||huronews.com^
-||hypertrack.com^
 ||hzchengdun.com^
 ||hzshudian.com^
 ||ibytedtos.com^
 ||ibyteimg.com^
-||idqqimg.com^
 ||igamecj.com^
 ||itao.com^
 ||iterable.com^
@@ -154,6 +151,7 @@
 ||lazada.com^
 ||listdl.com^
 ||loopanews.com^
+||luronews.com^
 ||maddw.com^
 ||mdotlabs.com^
 ||measuread.com^
@@ -382,7 +380,6 @@
 ||giftsofsquare.org^
 ||giveasquare.org^
 ||greencompute.org^
-||internet-census.org^
 ||leechers-paradise.org^
 ||datadog.pool.ntp.org^
 ||opentrackr.org^
