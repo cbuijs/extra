@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
 ! Title: Extra AdBlock List
-! Version: 1762095666
-! Number of rules: 406
+! Version: 1762182064
+! Number of rules: 410
 !
 ||qwen.ai^
 ||qwenlm.ai^
@@ -90,6 +90,7 @@
 ||cnzz.com^
 ||codmwest.com^
 ||firebase-settings.crashlytics.com^
+||deeginews.com^
 ||dingtalk.com^
 ||dorimnews.com^
 ||douyin.com^
@@ -149,6 +150,7 @@
 ||laravel-news.com^
 ||lazada.com^
 ||listdl.com^
+||loopanews.com^
 ||maddw.com^
 ||mdotlabs.com^
 ||measuread.com^
@@ -186,6 +188,7 @@
 ||sellwithsquare.com^
 ||servicewechat.com^
 ||shockynews.com^
+||sifenews.com^
 ||smartechmetrics.com^
 ||snapchat.com^
 ||sogo.com^
@@ -216,6 +219,7 @@
 ||taopiaopiao.com^
 ||tbcache.com^
 ||tcdnos.com^
+||tegronews.com^
 ||tencent.com^
 ||tencentmusic.com^
 ||tenpay.com^
