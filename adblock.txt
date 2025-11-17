@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
 ! Title: Extra AdBlock List
-! Version: 1763305273
-! Number of rules: 411
+! Version: 1763391664
+! Number of rules: 410
 !
 ||qwen.ai^
 ||qwenlm.ai^
@@ -112,7 +112,6 @@
 ||gaode.com^
 ||gcloudsdk.com^
 ||gcore.com^
-||getsentry.com^
 ||getsquare.com^
 ||giftofsquare.com^
 ||giftsofsquare.com^
