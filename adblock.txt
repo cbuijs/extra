@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
 ! Title: Extra AdBlock List
-! Version: 1764169263
-! Number of rules: 411
+! Version: 1764255664
+! Number of rules: 415
 !
 ||*.alibaba^
 ||square.ca^
@@ -34,6 +34,7 @@
 ||dler.org^
 ||shadowserver.org^
 ||opentrackr.org^
+||internet-census.org^
 ||wechat.org^
 ||torproject.org^
 ||squaregift.org^
@@ -128,6 +129,7 @@
 ||autonavi.com^
 ||alifanyi.com^
 ||igamecj.com^
+||hypertrack.com^
 ||sqclick.com^
 ||gcloudsdk.com^
 ||dingtalk.com^
@@ -142,6 +144,7 @@
 ||qqmail.com^
 ||tingmall.com^
 ||tmall.com^
+||9appsinstall.com^
 ||squarepayroll.com^
 ||sc-jpl.com^
 ||ywurl.com^
@@ -322,6 +325,7 @@
 ||square.co.jp^
 ||squareup.co.jp^
 ||lovina.app^
+||cashstaging.app^
 ||cash.app^
 ||vkpay.app^
 ||*.iq^
