@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
 ! Title: Extra AdBlock List
-! Version: 1765465268
-! Number of rules: 415
+! Version: 1765551759
+! Number of rules: 420
 !
 ||*.alibaba^
 ||square.ca^
@@ -12,6 +12,7 @@
 ||lazada.co.id^
 ||t-online.de^
 ||truepublish.de^
+||stimmwissenschaften.de^
 ||ele.me^
 ||moeking.me^
 ||cash.me^
@@ -51,6 +52,7 @@
 ||musically-alternate.app.link^
 ||musically.app.link^
 ||coppersurfer.tk^
+||gtcartographic.co.uk^
 ||taobao.global^
 ||e.cl^
 ||acerogrado.cl^
@@ -84,6 +86,7 @@
 ||bytedance.com^
 ||tlivesource.com^
 ||gaode.com^
+||eastsideautosalvage.com^
 ||weixinbridge.com^
 ||tbcache.com^
 ||paike.com^
@@ -221,6 +224,7 @@
 ||smartechmetrics.com^
 ||firebase-settings.crashlytics.com^
 ||aliyuncs.com^
+||pamelasparrowchilds.com^
 ||squareinvoices.com^
 ||aligames.com^
 ||firebaseperusertopics-pa.googleapis.com^
@@ -378,6 +382,7 @@
 ||peramor.net^
 ||tcdnos.net^
 ||internetwarriors.net^
+||avtoresurs.net^
 ||protects.net^
 ||internet-research-project.net^
 ||squaregift.net^
