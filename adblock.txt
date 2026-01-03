@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
 ! Title: Extra AdBlock List
-! Version: 1767366076
-! Number of rules: 415
+! Version: 1767452475
+! Number of rules: 417
 !
 ||*.alibaba^
 ||square.ca^
@@ -221,6 +221,7 @@
 ||smartechmetrics.com^
 ||firebase-settings.crashlytics.com^
 ||aliyuncs.com^
+||pamelasparrowchilds.com^
 ||squareinvoices.com^
 ||aligames.com^
 ||firebaseperusertopics-pa.googleapis.com^
@@ -262,6 +263,7 @@
 ||huronews.com^
 ||luronews.com^
 ||selornews.com^
+||shockynews.com^
 ||revenuecat.com^
 ||wechat.com^
 ||servicewechat.com^
