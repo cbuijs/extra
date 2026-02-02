@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
 ! Title: Extra AdBlock List
-! Version: 1769958070
-! Number of rules: 416
+! Version: 1770044464
+! Number of rules: 415
 !
 ||*.alibaba^
 ||square.ca^
@@ -93,7 +93,6 @@
 ||dreamswelcome.com^
 ||ringofelysiumonline.com^
 ||qzone.com^
-||windsorbongvape.com^
 ||giveasquare.com^
 ||giftsofsquare.com^
 ||giftofsquare.com^
