@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
 ! Title: Extra AdBlock List
-! Version: 1771254067
-! Number of rules: 416
+! Version: 1771340470
+! Number of rules: 417
 !
 ||*.alibaba^
 ||square.ca^
@@ -300,6 +300,7 @@
 ||fliggy.com^
 ||gjacky.com^
 ||my.com^
+||getsentry.com^
 ||riverty.com^
 ||findgravy.com^
 ||boomproxy.com^
