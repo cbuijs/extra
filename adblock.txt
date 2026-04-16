@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
 ! Title: Extra AdBlock List
-! Version: 1776261685
-! Number of rules: 410
+! Version: 1776348078
+! Number of rules: 411
 !
 ||*.alibaba^
 ||square.ca^
@@ -410,6 +410,7 @@
 ||onion.ly^
 ||lazada.com.my^
 ||vk.company^
+||onion.city^
 ||uw0.xyz^
 ||block.xyz^
 ||nixnet.xyz^
