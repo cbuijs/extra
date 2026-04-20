@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
 ! Title: Extra AdBlock List
-! Version: 1776607275
-! Number of rules: 411
+! Version: 1776693683
+! Number of rules: 410
 !
 ||*.alibaba^
 ||square.ca^
@@ -42,7 +42,6 @@
 ||torrent.eu.org^
 ||lazada.sg^
 ||lazada.com.ph^
-||onion.sh^
 ||lazada.co.th^
 ||qwenlm.ai^
 ||qwen.ai^
