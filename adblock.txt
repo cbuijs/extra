@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
 ! Title: Extra AdBlock List
-! Version: 1777644077
-! Number of rules: 413
+! Version: 1777730484
+! Number of rules: 415
 !
 ||*.alibaba^
 ||square.ca^
@@ -75,6 +75,7 @@
 ||alibaba-inc.com^
 ||aliyun-inc.com^
 ||ancbfvvc.com^
+||s3xified.com^
 ||alibabaued.com^
 ||alikmd.com^
 ||sumogroupltd.com^
@@ -282,6 +283,7 @@
 ||cmfu.com^
 ||soku.com^
 ||youku.com^
+||tudou.com^
 ||sogou.com^
 ||kugou.com^
 ||alidayu.com^
