@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
 ! Title: Extra AdBlock List
-! Version: 1780236103
-! Number of rules: 410
+! Version: 1780322489
+! Number of rules: 409
 !
 ||*.alibaba^
 ||square.ca^
@@ -113,7 +113,6 @@
 ||laifeng.com^
 ||tangping.com^
 ||fanxing.com^
-||scorecardresearch.com^
 ||aliresearch.com^
 ||goofish.com^
 ||paypai.com^
