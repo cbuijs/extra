@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
 ! Title: Extra AdBlock List
-! Version: 1781186490
-! Number of rules: 408
+! Version: 1781272882
+! Number of rules: 409
 !
 ||*.alibaba^
 ||square.ca^
@@ -52,6 +52,7 @@
 ||coppersurfer.tk^
 ||taobao.global^
 ||e.cl^
+||acerogrado.cl^
 ||paypai.nl^
 ||umtrack0.com^
 ||umtrack1.com^
