@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Extra AdBlock List
-! Version: 1782309688
+! Version: 1782396092
 ! Number of rules: 409
 !
 ||*.alibaba^
@@ -52,7 +52,6 @@
 ||coppersurfer.tk^
 ||taobao.global^
 ||e.cl^
-||acerogrado.cl^
 ||paypai.nl^
 ||umtrack0.com^
 ||umtrack1.com^
@@ -119,6 +118,7 @@
 ||opchatgptai.com^
 ||eckwai.com^
 ||ecukwai.com^
+||adukwai.com^
 ||alitianji.com^
 ||xiaomi.com^
 ||alixiaomi.com^
