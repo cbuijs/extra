@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
 ! Title: Extra AdBlock List
-! Version: 1783346488
-! Number of rules: 407
+! Version: 1783432877
+! Number of rules: 406
 !
 ||*.alibaba^
 ||square.ca^
@@ -118,7 +118,6 @@
 ||opchatgptai.com^
 ||eckwai.com^
 ||ecukwai.com^
-||adukwai.com^
 ||alitianji.com^
 ||xiaomi.com^
 ||alixiaomi.com^
