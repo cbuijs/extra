@@ -1,19 +1,17 @@
 [Adblock Plus 1.1]
 ! Title: Extra AdBlock List
-! Version: 1786975244
-! Number of rules: 447
+! Version: 1787061664
+! Number of rules: 408
 !
 ||*.alibaba^
 ||square.ca^
 ||squareup.ca^
 ||resolver.arpa^
-||onion.cab^
 ||vk.cc^
 ||lazada.co.id^
 ||t-online.de^
 ||truepublish.de^
 ||ele.me^
-||cashstaging.me^
 ||moeking.me^
 ||cash.me^
 ||vk.me^
@@ -43,7 +41,6 @@
 ||torrent.eu.org^
 ||lazada.sg^
 ||lazada.com.ph^
-||onion.sh^
 ||lazada.co.th^
 ||qwenlm.ai^
 ||qwen.ai^
@@ -72,16 +69,12 @@
 ||hichina.com^
 ||proximabeta.com^
 ||ucweb.com^
-||newrelic.com^
 ||tencentmusic.com^
 ||alibaba-inc.com^
 ||aliyun-inc.com^
 ||ancbfvvc.com^
-||ubembed.com^
-||s3xified.com^
 ||alibabaued.com^
 ||alikmd.com^
-||clevertap-prod.com^
 ||sumogroupltd.com^
 ||alibabacloud.com^
 ||qcloud.com^
@@ -89,13 +82,11 @@
 ||bytedance.com^
 ||tlivesource.com^
 ||gaode.com^
-||amplitude.com^
 ||weixinbridge.com^
 ||tbcache.com^
 ||paike.com^
 ||iterable.com^
 ||pubgmobile.com^
-||metrics.apple.com^
 ||dreamswelcome.com^
 ||ringofelysiumonline.com^
 ||qzone.com^
@@ -112,24 +103,19 @@
 ||vkontakte.com^
 ||vkuserlive.com^
 ||aliyundrive.com^
-||bugsnag.com^
 ||ibyteimg.com^
 ||kgimg.com^
 ||aliimg.com^
 ||ykimg.com^
 ||idqqimg.com^
 ||gtimg.com^
-||sense360eng.com^
 ||laifeng.com^
 ||tangping.com^
 ||fanxing.com^
-||alipaylog.com^
-||scorecardresearch.com^
 ||aliresearch.com^
 ||goofish.com^
 ||paypai.com^
 ||opchatgptai.com^
-||adbkwai.com^
 ||eckwai.com^
 ||ecukwai.com^
 ||adukwai.com^
@@ -170,7 +156,6 @@
 ||hzshudian.com^
 ||qqzaixian.com^
 ||fanhuan.com^
-||sentry-cdn.com^
 ||elemecdn.com^
 ||squarecdn.com^
 ||tiktokcdn.com.c.worldfcdn.com^
@@ -214,7 +199,6 @@
 ||wesingapp.com^
 ||wechatapp.com^
 ||myapp.com^
-||onezapp.com^
 ||alibabacorp.com^
 ||squareup.com^
 ||alibabagroup.com^
@@ -225,7 +209,6 @@
 ||squareoffer.com^
 ||nyaatracker.com^
 ||research-scanner.com^
-||statcounter.com^
 ||squareregister.com^
 ||alibabadoctor.com^
 ||mdotlabs.com^
@@ -233,17 +216,14 @@
 ||eum-appdynamics.com^
 ||wecomics.com^
 ||smartechmetrics.com^
-||gl-product-analytics.com^
 ||firebase-settings.crashlytics.com^
 ||aliyuncs.com^
 ||pamelasparrowchilds.com^
 ||squareinvoices.com^
 ||aligames.com^
-||firebaselogging-pa.googleapis.com^
 ||firebaseperusertopics-pa.googleapis.com^
 ||firebaseremoteconfig.googleapis.com^
 ||firebaseinstallations.googleapis.com^
-||ravenjs.com^
 ||tindersparks.com^
 ||hsforms.com^
 ||alibabadns.com^
@@ -269,12 +249,8 @@
 ||hypertrack.amazonaws.com^
 ||laravel-news.com^
 ||loopanews.com^
-||lycheenews.com^
 ||sifenews.com^
-||gofenews.com^
 ||deeginews.com^
-||lookinews.com^
-||rookinews.com^
 ||dorimnews.com^
 ||jemonews.com^
 ||tegronews.com^
@@ -282,14 +258,11 @@
 ||huronews.com^
 ||luronews.com^
 ||selornews.com^
-||guesswhatnews.com^
 ||shockynews.com^
-||lootynews.com^
 ||revenuecat.com^
 ||wechat.com^
 ||servicewechat.com^
 ||snapchat.com^
-||mmstat.com^
 ||pubgpocket.com^
 ||alibabaplanet.com^
 ||squaregift.com^
@@ -297,7 +270,6 @@
 ||stickandsplit.com^
 ||mkt.com^
 ||tencent.com^
-||cquotient.com^
 ||openbittorrent.com^
 ||alibabausercontent.com^
 ||alimebot.com^
@@ -306,11 +278,9 @@
 ||analytics.pinterest.com^
 ||widgets.pinterest.com^
 ||codmwest.com^
-||effirst.com^
 ||cmfu.com^
 ||soku.com^
 ||youku.com^
-||tudou.com^
 ||sogou.com^
 ||kugou.com^
 ||alidayu.com^
@@ -341,10 +311,8 @@
 ||payservice.io^
 ||juicer.io^
 ||privacymanager.io^
-||siteimproveanalytics.io^
 ||myendpoint.io^
 ||vkpay.io^
-||sentry.io^
 ||daraz.io^
 ||gcore.pro^
 ||ddurl.to^
@@ -369,14 +337,11 @@
 ||i2p.rocks^
 ||appcenter.ms^
 ||aliexpress.us^
-||onion.ws^
 ||trck.at^
 ||we.chat^
-||onion.direct^
 ||ali213.net^
 ||2o7.net^
 ||yottaa.net^
-||nr-data.net^
 ||slatic.net^
 ||twitchsvc.net^
 ||proxad.net^
@@ -405,7 +370,6 @@
 ||vkuservideo.net^
 ||vkuseraudio.net^
 ||geti2p.net^
-||imtmp.net^
 ||vkuser.net^
 ||peramor.net^
 ||tcdnos.net^
@@ -427,7 +391,6 @@
 ||musical.ly.edgekey.net^
 ||bytedance.map.fastly.net^
 ||twitch.map.fastly.net^
-||kidoz.net^
 ||onion.pet^
 ||sqap.pt^
 ||square.com.au^
@@ -443,10 +406,8 @@
 ||*.alipay^
 ||square.ly^
 ||musical.ly^
-||onion.ly^
 ||lazada.com.my^
 ||vk.company^
-||onion.city^
 ||uw0.xyz^
 ||block.xyz^
 ||nixnet.xyz^
