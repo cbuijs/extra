@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
 ! Title: Extra AdBlock List
-! Version: 1787320867
-! Number of rules: 408
+! Version: 1787407269
+! Number of rules: 410
 !
 ||*.alibaba^
 ||square.ca^
@@ -109,6 +109,7 @@
 ||ykimg.com^
 ||idqqimg.com^
 ||gtimg.com^
+||sense360eng.com^
 ||laifeng.com^
 ||tangping.com^
 ||fanxing.com^
@@ -391,6 +392,7 @@
 ||musical.ly.edgekey.net^
 ||bytedance.map.fastly.net^
 ||twitch.map.fastly.net^
+||kidoz.net^
 ||onion.pet^
 ||sqap.pt^
 ||square.com.au^
