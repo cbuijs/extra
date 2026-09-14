@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
 ! Title: Extra AdBlock List
-! Version: 1789308072
-! Number of rules: 410
+! Version: 1789394459
+! Number of rules: 411
 !
 ||*.alibaba^
 ||square.ca^
@@ -271,6 +271,7 @@
 ||stickandsplit.com^
 ||mkt.com^
 ||tencent.com^
+||cquotient.com^
 ||openbittorrent.com^
 ||alibabausercontent.com^
 ||alimebot.com^
