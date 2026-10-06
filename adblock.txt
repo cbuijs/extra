@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
 ! Title: Extra AdBlock List
-! Version: 1791208857
-! Number of rules: 412
+! Version: 1791295258
+! Number of rules: 413
 !
 ||*.alibaba^
 ||square.ca^
@@ -265,6 +265,7 @@
 ||wechat.com^
 ||servicewechat.com^
 ||snapchat.com^
+||mmstat.com^
 ||pubgpocket.com^
 ||alibabaplanet.com^
 ||squaregift.com^
