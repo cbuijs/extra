@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
 ! Title: Extra AdBlock List
-! Version: 1794063660
-! Number of rules: 421
+! Version: 1794150061
+! Number of rules: 414
 !
 ||*.alibaba^
 ||square.ca^
@@ -69,7 +69,6 @@
 ||hichina.com^
 ||proximabeta.com^
 ||ucweb.com^
-||newrelic.com^
 ||tencentmusic.com^
 ||alibaba-inc.com^
 ||aliyun-inc.com^
@@ -83,7 +82,6 @@
 ||bytedance.com^
 ||tlivesource.com^
 ||gaode.com^
-||amplitude.com^
 ||weixinbridge.com^
 ||tbcache.com^
 ||paike.com^
@@ -284,7 +282,6 @@
 ||analytics.pinterest.com^
 ||widgets.pinterest.com^
 ||codmwest.com^
-||effirst.com^
 ||cmfu.com^
 ||soku.com^
 ||youku.com^
@@ -318,7 +315,6 @@
 ||payservice.io^
 ||juicer.io^
 ||privacymanager.io^
-||siteimproveanalytics.io^
 ||myendpoint.io^
 ||vkpay.io^
 ||daraz.io^
@@ -345,13 +341,11 @@
 ||i2p.rocks^
 ||appcenter.ms^
 ||aliexpress.us^
-||onion.ws^
 ||trck.at^
 ||we.chat^
 ||ali213.net^
 ||2o7.net^
 ||yottaa.net^
-||nr-data.net^
 ||slatic.net^
 ||twitchsvc.net^
 ||proxad.net^
@@ -364,7 +358,6 @@
 ||giftsofsquare.net^
 ||giftofsquare.net^
 ||go-mpulse.net^
-||monetate.net^
 ||tiktok.com.edgesuite.net^
 ||tiktokcdn.com.edgesuite.net^
 ||tiktokv.com.edgesuite.net^
